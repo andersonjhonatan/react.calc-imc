@@ -2,7 +2,7 @@
 
 Projeto em React + TypeScript
 
-Projeto Desenvolvido durante o curso [B7Web](https://b7web.com.br)
+Projeto Desenvolvido
 
 ### Instalação
 
